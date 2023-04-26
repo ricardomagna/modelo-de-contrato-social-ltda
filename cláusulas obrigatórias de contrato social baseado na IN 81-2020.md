@@ -4,7 +4,9 @@ title: CONTRATO SOCIAL DE SOCIEDADE LIMITADA \ [NOME DA SOCIEDADE] LTDA.
 
 **CONTRATO SOCIAL DE SOCIEDADE LIMITADA \ [NOME DA SOCIEDADE] LTDA.**
 
-**SÓCIO PF**: nome, nacionalidade, estado civil ^[indicar o regime de bens se for casado], data de nascimento ^[se solteiro], profissão, inscrito no CPF n. [CPF], residente e domiciliado no [endereço completo].
+**SÓCIO PF**: nome, nacionalidade, estado civil[^regime], data de nascimento, profissão, inscrito no CPF n. [CPF], residente e domiciliado no [endereço completo].
+
+[^regime]: indicar o regime de bens se for casado
 
 Resolvem, em comum acordo, constituir uma sociedade limitada, mediante as condições e cláusulas seguintes:
 
