@@ -5,9 +5,11 @@
 
 # Sugestão com base na situação e/ou valor
 
-**Cláusula N** - As partes elegem o foro arbitral [foro arbitral] para dirimir quaisquer dúvidas decorrentes do presente instrumento desde que relativas à dissolução parcial ou total da sociedade, por qualquer motivo, desde que o valor dos haveres em liquidação sejam superiores a R\$ [valor] ([por extenso]).
+**Cláusula N** - As partes nomeiam o [foro arbitral], nos termos da Lei nº 9.307, de 23 de setembro de 1996, para dirimir quaisquer dúvidas decorrentes do presente instrumento desde que relativas à dissolução parcial ou total da sociedade, por qualquer motivo, desde que necessariamente o valor dos haveres em liquidação sejam superiores a R\$ [valor] ([por extenso]).
 
-**Parágrafo N** - <!-- regras da arbitragem -->
+**Parágrafo N** - A arbitragem será conduzida no idioma português e o local da arbitragem será a cidade de [cidade].
+
+**Parágrafo N** - Para fins de comunicação dos sócios, considerar-se-á citado, notificado ou intimado o Sócio na data do recebimento de correio eletrônico, cujo e-mail será indicado em documento apartado e firmado pelos sócios.
 
 ---
 # Comentários
