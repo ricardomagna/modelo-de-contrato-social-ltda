@@ -47,7 +47,7 @@ $$
 ### Critério patrimonial
 
 $$
-Balanço \ Patrimonial = Ativo(ativo + intangível) - Passivo
+Balanço \ Patrimonial = Ativo(tangível + intangível) - Passivo
 $$
 
 [^criterios]: JARDIM, Guilherme Rauen Silva. Método contábil de apuração de haveres de sociedade limitada quando não há previsão no contrato social. Revista Jus Navigandi, 6610. ed. 2021. Disponível em: <https://jus.com.br/artigos/92214/metodo-contabil-de-apuracao-de-haveres-de-sociedade-limitada-quando-nao-ha-previsao-no-contrato-social>. Acesso em: 26 abr. 2023.
