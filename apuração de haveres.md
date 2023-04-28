@@ -35,6 +35,21 @@ Forma de balanço:[^saraiva]
 > 2. Balanço especial: é um levantamento extraordinário, no qual preservam-se os mesmos critérios de avaliação dos bens do ativo e passivo adotados no balanço ordinário, porém procedendo à simples atualização para a data de referência no transcorrer do exercício. Ou seja, apura-se considerando os critérios de escrituração contábil, porém para qualquer data específica;
 > 3. Balanço de Determinação: é um balanço extraordinário, no qual reflete os valores dos ativos e passivos a valores líquidos de realização, ou seja, a valores de saída, inclusive os ativos intangíveis, com possibilidade de inclusão do goodwill, ou aviamento.
 
+
+## Fórmula matemática ??
+
+### Critério econômico
+
+$$
+Balanço \ de \ Determinação = Ativo(tangível + intangível) - Passivo + Aviamento
+$$
+
+### Critério patrimonial
+
+$$
+Balanço \ Patrimonial = Ativo(ativo + intangível) - Passivo
+$$
+
 [^criterios]: JARDIM, Guilherme Rauen Silva. Método contábil de apuração de haveres de sociedade limitada quando não há previsão no contrato social. Revista Jus Navigandi, 6610. ed. 2021. Disponível em: <https://jus.com.br/artigos/92214/metodo-contabil-de-apuracao-de-haveres-de-sociedade-limitada-quando-nao-ha-previsao-no-contrato-social>. Acesso em: 26 abr. 2023.
 
 [^saraiva]: SARAIVA, Frederico. Os diferentes modelos de Balanço Patrimonial como racional da apuração de haveres em Contratos Sociais/Acordos de Sócios. C&S Projetos e Mercados. Disponível em: <https://csprojetos.com/articles/os-diferentes-modelos-de-balanco-patrimonial-como-racional-da-apuracao-de-haveres-em-contratos-sociais-acordos-de-socios/>. Acesso em: 27 abr. 2023.
